@@ -278,3 +278,5 @@ Else
 {
     Write-Log -Message "$appName $appInstalledVersion is already installed." -Severity 1 -LogType CMTrace -WriteHost $True
 }
+#jonathan youreaky are the best
+#dfggfg
